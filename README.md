@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Machine Learning enthusiast
+- Electrical & Computer Engineer
+- Graduate student - Technical Univesity of Crete
+
 <!--
 **kmylonas/kmylonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
