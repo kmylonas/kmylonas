@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- Machine Learning enthusiast
+- Machine Learning and mathematics enthusiast
+- Currently interested into world modeling and planning, and OOD generalization
 - Electrical & Computer Engineer
 - Graduate student - Technical Univesity of Crete
 
